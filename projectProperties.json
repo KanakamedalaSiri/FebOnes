@@ -3,6 +3,7 @@
     "Appoinments": "true",
     "Contacts": "true",
     "DisableApplicationScreenshot": "false",
+    "DisableApplicationScreenshotandwear": "false",
     "Documents_Library_Access": "true",
     "Enterprise_Authentication": "true",
     "Home_or_Work_Networking": "true",
@@ -52,11 +53,13 @@
     "access_shared": "false",
     "access_sms_mms": "false",
     "addWatchBackgroundListenerToReceiveDataPayload": "false",
+    "addWatchBackgroundListenerToReceiveDataPayloadAndWear": "false",
     "addWatchBackgroundListenerToReceiveMessagePayload": "false",
+    "addWatchBackgroundListenerToReceiveMessagePayloadAndWear": "false",
     "allJoyn": "false",
     "allowselfsignedcertificate": "false",
     "andmaxsdkkey": "None",
-    "andminsdkkey": "5.0 (21)",
+    "andminsdkkey": "4.4 (19)",
     "androidInstallLocation": "Auto",
     "androidInstallLocnPref": "false",
     "android_allowselfsignedcertificates": "None",
@@ -72,9 +75,11 @@
     "androidscreensmall": "true",
     "androidwear_allowselfsignedcertificates": "None",
     "andtargetsdkkey": "10.0 (29)",
-    "andwearapppackagekey": "com.orgname.MKAFNew",
+    "andwearapppackagekey": "com.orgname.FebDemo1",
     "andwearappversioncode": "1",
     "andwearmaxsdkkey": "None",
+    "andwearminsdkkey": "7.1 (25)",
+    "andweartargetsdkkey": "9.0 (28)",
     "antialiaseddrawing": "false",
     "apmappload": "false",
     "apmapptransition": "false",
@@ -88,7 +93,7 @@
     "apmserviceresponse": "false",
     "apmtouchorclick": "",
     "appaddrkey": "",
-    "appidkey": "MKAFNew",
+    "appidkey": "FebDemo1",
     "appiniteventkey": "None",
     "applepushfunc": "None",
     "apploadeventkey": "None",
@@ -101,7 +106,7 @@
                         "default": "option1.png"
                     },
                     "id": "appmenuitemid1",
-                    "kuid": "j18d7bbe7d2a415c9cb3eb9983fc6eef",
+                    "kuid": "f37d4076023f45d1a72a4b408d00d5e9",
                     "title": "Item 1"
                 },
                 {
@@ -109,7 +114,7 @@
                         "default": "option2.png"
                     },
                     "id": "appmenuitemid2",
-                    "kuid": "b9ef6e2358ca40d29627fb26d04a1100",
+                    "kuid": "ddd380d3d50f41afac57f73920284d03",
                     "title": "Item 2"
                 },
                 {
@@ -117,7 +122,7 @@
                         "default": "option3.png"
                     },
                     "id": "appmenuitemid3",
-                    "kuid": "e9f615ceacf14394ba6a7483d250e711",
+                    "kuid": "edf5722ad0004560b2a254941c107cf7",
                     "title": "Item 3"
                 },
                 {
@@ -125,7 +130,7 @@
                         "default": "option4.png"
                     },
                     "id": "appmenuitemid4",
-                    "kuid": "cde82dae71874ca0ade62b8a841482f3",
+                    "kuid": "h0a01bdfd2a44847a9d9e9c24e3a0181",
                     "title": "Item 4"
                 }
             ]
@@ -139,7 +144,7 @@
                         "default": "option1.png"
                     },
                     "id": "appmenuitemid1",
-                    "kuid": "gec6a099aa2d4079850698122b45177d",
+                    "kuid": "hb661a7c07344c8c8ec2667698553ff3",
                     "title": "Item 1"
                 },
                 {
@@ -147,7 +152,7 @@
                         "default": "option2.png"
                     },
                     "id": "appmenuitemid2",
-                    "kuid": "db7d17e4b5f045339fcbc26034cdb961",
+                    "kuid": "fe6f73791f55446abfd4c402355a6009",
                     "title": "Item 2"
                 },
                 {
@@ -155,7 +160,7 @@
                         "default": "option3.png"
                     },
                     "id": "appmenuitemid3",
-                    "kuid": "j947c991e85a4e88b15bd6c84902782d",
+                    "kuid": "d4d16b12cdc04c5dbd3315033a2b7bf4",
                     "title": "Item 3"
                 },
                 {
@@ -163,7 +168,7 @@
                         "default": "option4.png"
                     },
                     "id": "appmenuitemid4",
-                    "kuid": "d7921ed1410a4dfcbe9e67258346fa73",
+                    "kuid": "e1f37f31a54c4cb294a39e21b64c2954",
                     "title": "Item 4"
                 }
             ]
@@ -178,7 +183,7 @@
                         "default": "option1.png"
                     },
                     "id": "appmenuitemid1",
-                    "kuid": "e8b9ea59ddfa4779b2fc491acb5ed6f7",
+                    "kuid": "abcd37898db0428494f573c1d8ba8a44",
                     "title": "Item 1",
                     "windows8": {
                         "appBarButtonStyle": "No Style",
@@ -190,7 +195,7 @@
                         "default": "option2.png"
                     },
                     "id": "appmenuitemid2",
-                    "kuid": "f7f9634f6327421da522777a367fe88e",
+                    "kuid": "f83e0893048b44b6bf3520191c952156",
                     "title": "Item 2",
                     "windows8": {
                         "appBarButtonStyle": "No Style",
@@ -202,7 +207,7 @@
                         "default": "option3.png"
                     },
                     "id": "appmenuitemid3",
-                    "kuid": "ha454a56168a4e71857d4d8cd5d7efe8",
+                    "kuid": "d682cc0fd6424a33af97cd0d4337f63d",
                     "title": "Item 3",
                     "windows8": {
                         "appBarButtonStyle": "No Style",
@@ -214,7 +219,7 @@
                         "default": "option4.png"
                     },
                     "id": "appmenuitemid4",
-                    "kuid": "fa8d09251d884ae1ae7179463f0d32cc",
+                    "kuid": "f6bf7e3c346143a9b1a8d24d922d1f75",
                     "title": "Item 4",
                     "windows8": {
                         "appBarButtonStyle": "No Style",
@@ -225,9 +230,9 @@
         },
         "wType": "Appmenu"
     },
-    "appnamekey": "MKAFNew",
+    "appnamekey": "FebDemo1",
     "appointments": "false",
-    "apppackagekey": "com.orgname.MKAFNew",
+    "apppackagekey": "com.orgname.FebDemo1",
     "apptitle": "",
     "appversioncode": "1",
     "appversionkey": "1.0.0",
@@ -254,24 +259,24 @@
     "buildWarCompatability": "false",
     "build_gradle_attrs_prefix": "",
     "build_gradle_attrs_prefix_andwear": "",
-    "build_gradle_attrs_suffix": "android { defaultConfig { renderscriptSupportModeEnabled false }",
+    "build_gradle_attrs_suffix": "android { defaultConfig { renderscriptSupportModeEnabled false } }",
     "build_gradle_attrs_suffix_andwear": "",
     "buttonAsLabel": true,
     "camerasettings": "",
     "cancelicon": "",
     "category": "app",
     "chat": "false",
-    "cloud_account_guid": "3716496e-41ba-4bc3-92de-d42e4b28eab2",
-    "cloud_env_GUID": "ae235f92-bd78-4302-9443-0d7c2909c0ed",
+    "cloud_account_guid": "28000b30-61cc-46ce-8b0a-c30ff988cef3",
+    "cloud_env_GUID": "c48e9add-6bcf-41de-a2f1-28d10c5fa602",
     "codeGeneration": "false",
     "contacts": "false",
     "cordovaModified": false,
     "cordovaVersionInfo": {
         "useGlobalCordova": false
     },
-    "createdVizVersion": "9.2.39",
-    "createdgaversion": "9.2.39",
-    "currentgaversion": "9.5.5",
+    "createdVizVersion": "9.5.9",
+    "createdgaversion": "9.5.9",
+    "currentgaversion": "9.5.9",
     "deeplinkkey": "None",
     "defaultZIndex": "1",
     "defaultlocalekey": "",
@@ -305,6 +310,7 @@
     "enableautomaticeventcap": "true",
     "enablecharts2d3diphone": "false",
     "enablefileupload": "false",
+    "enablefileuploadandwear": "false",
     "enablefocushtml5iphonbb": "false",
     "enablelocalnotifications": "false",
     "enablelocalnotificationsandroidwear": "false",
@@ -323,7 +329,6 @@
     "fabric_runtime_app_version": "Linked",
     "fbxfolderpathkey": "",
     "fgcolorkey": "255,255,255",
-    "generateAppBundle": true,
     "generateJavaCodeForForms": "false",
     "genericexceptionalert": "false",
     "gradle_properties_attrs": "",
@@ -335,15 +340,14 @@
     "hybridaddrkey": "",
     "hybridhttpsportkey": "",
     "hybridportkey": "",
-    "iOSMobileProvision": "certificates\\iOS\\testprov.mobileprovision",
-    "iOSP12FilePath": "certificates\\iOS\\Certificates.p12",
-    "iOSP12Password": "Test@1234",
+    "iOSMobileProvision": "",
+    "iOSP12FilePath": "",
+    "iOSP12Password": "",
     "imagewhendownloading": "",
     "initialRotationPreferenceKey": "landscape",
     "inputaccessoryviewtype": "nextprevtoolbar",
     "internetClient": "false",
     "internetClientServer": "false",
-    "iosBuildFormat": "kar",
     "ioscheckboxcorrection": "true",
     "iosdeployment_targetversionkey": "9.0",
     "iospopuptransitioncorrection": "true",
@@ -369,7 +373,7 @@
     "iphone_spotlighticon_2x_40": "",
     "iphone_spotlighticon_3x_29": "",
     "iphone_spotlighticon_3x_40": "",
-    "iphonebundleidentifierkey": "com.hcl.voltmxiostestapp",
+    "iphonebundleidentifierkey": "com.hcl.FebDemo1",
     "iphonebundleversionkey": "1.0.0",
     "iphoneipad_appstoreicon_1x_1024": "",
     "iphoneipadglossyeffectkey": "false",
@@ -388,38 +392,14 @@
     "keyAlias": "",
     "keyAliasandwear": "",
     "keyPassword": "",
+    "keyPasswordandwear": "",
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
     "keyStorePassword": "",
+    "keyStorePasswordandwear": "",
     "keychainPassword": "",
-    "kfAppInfo": {
-        "3716496e-41ba-4bc3-92de-d42e4b28eab2": {
-            "appName": "MKAFNew",
-            "baseId": "7c843ea1-381f-41de-82fa-a99da156ca0e",
-            "id": "7c843ea1-381f-41de-82fa-a99da156ca0e",
-            "version": "1.0"
-        },
-        "e4c60404-2200-4c2f-a30d-25ad10da4b9d": {
-            "appName": "MKAFNew",
-            "baseId": "e4f550f7-1a73-4919-9a28-cb7fa4e1a3cc",
-            "id": "e4f550f7-1a73-4919-9a28-cb7fa4e1a3cc",
-            "version": "1.0"
-        },
-        "ebe5a9b6-bb00-43e6-8657-f0ae873a8af4": {
-            "appName": "MKAFNew",
-            "baseId": "13e5ae6f-5927-450f-b13c-b2e6329de4de",
-            "id": "13e5ae6f-5927-450f-b13c-b2e6329de4de",
-            "version": "1.0"
-        },
-        "ee4c6882-77c8-441b-89b7-3fef8f251f1a": {
-            "appName": "MKAFNew",
-            "baseId": "b6f0a4cf-1506-4f43-8fc6-c8cef1a5e171",
-            "id": "b6f0a4cf-1506-4f43-8fc6-c8cef1a5e171",
-            "version": "1.0"
-        }
-    },
-    "konyVizVersion": "9.5.5",
-    "lastmodifiedtime": "1670910862082",
+    "konyVizVersion": "9.5.9",
+    "lastmodifiedtime": "1675245207405",
     "location": "false",
     "mangoapptitlekey": ",,,,,,",
     "mapkey": "",
@@ -688,9 +668,7 @@
     "previewshowpassword": "false",
     "privateNetworkClientServer": "false",
     "project.type": "js",
-    "project_version": "sprint42",
-    "protectedModePrivateKey": "",
-    "protectedModePublicKey": "",
+    "project_version": "sprint39",
     "protectedmodeenabled_android": "false",
     "protectedmodeenabled_androidwear": "false",
     "protectedmodeenabled_ios": "false",
@@ -727,17 +705,14 @@
     "spawindows480basefontsize": "12",
     "spawindowstabbasefontsize": "17",
     "splashlogokey": "",
-    "startupformkey": "fef891f031b743d482f6ffc52b9da9c4",
+    "startupformkey": "b8869bb626ce48328cf7b3d2c834c573",
     "statusBarHidden": "false",
     "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
+    "support32bit": "false",
+    "support32bitandwear": "true",
     "support64bitandwear": "false",
+    "supportX86Devices": "false",
     "supportX86Devicesandwear": "false",
-    "support_arm_32bit": false,
-    "support_arm_64bit": true,
-    "support_x86_32bit": false,
-    "support_x86_64bit": false,
-    "tabletBreakPointInInches": "6",
-    "tabletstartupformkey": "d5bb7a57eae84f8dbd59bfed05c0d8b6",
     "tags": {
         "android": {
             "activity_child_tags": "",
@@ -837,16 +812,16 @@
     "win8bgagenttaskname": "",
     "win8certificatekey": "",
     "win8descriptionkey": "Sample Test Application",
-    "win8displaynamekey": "MKAFNew",
+    "win8displaynamekey": "FebDemo1",
     "win8enablecrashlogkey": "false",
     "win8lockscreennotificationskey": "Not set",
-    "win8packagedisplaynamekey": "MKAFNew",
+    "win8packagedisplaynamekey": "FebDemo1",
     "win8packagelogokey": "",
-    "win8packagenamekey": "MKAFNew",
+    "win8packagenamekey": "FebDemo1",
     "win8packagepublichernamekey": "HCL",
     "win8publisherdisplaynamekey": "HCL",
     "win8pvkkey": "",
-    "win8shortnamekey": "MKAFNew",
+    "win8shortnamekey": "FebDemo1",
     "win8shownamekey": "Not set",
     "win8smalllogokey": "",
     "win8toastcapablekey": "Not set",
@@ -864,7 +839,7 @@
     "windowsloadindicatorkey": "true",
     "windowsmapkey": "",
     "winenablecrashlogkey": "false",
-    "winmangotiletitlekey": "MKAFNew",
+    "winmangotiletitlekey": "FebDemo1",
     "winmobileguidkey": "",
     "winmobiletileimagekey": "",
     "winphn10bgagentclassname": "",
@@ -892,7 +867,7 @@
     "wp10codeGeneration": "false",
     "wp10contacts": "false",
     "wp10descriptionkey": "Sample Test Application",
-    "wp10displayname": "MKAFNew",
+    "wp10displayname": "FebDemo1",
     "wp10enablecrashlogkey": "false",
     "wp10enterpriseAuthentication": "false",
     "wp10initialRotationPreferenceKey": "landscape",
@@ -903,9 +878,9 @@
     "wp10microphone": "false",
     "wp10musicLibrary": "false",
     "wp10objects3D": "false",
-    "wp10packagedisplaynamekey": "MKAFNew",
+    "wp10packagedisplaynamekey": "FebDemo1",
     "wp10packagelogokey": "",
-    "wp10packagenamekey": "MKAFNew",
+    "wp10packagenamekey": "FebDemo1",
     "wp10packagepublichernamekey": "KonyLabs",
     "wp10pfxkey": "",
     "wp10phoneCall": "false",
@@ -916,7 +891,7 @@
     "wp10remoteSystem": "false",
     "wp10removableStorage": "false",
     "wp10sharedUserCertificates": "false",
-    "wp10shortnamekey": "MKAFNew",
+    "wp10shortnamekey": "FebDemo1",
     "wp10shownamekey": "Not set",
     "wp10smalllogokey": "",
     "wp10tileUpdateRecurrenceKey": "",
@@ -934,10 +909,10 @@
     "wp10webcam": "false",
     "wp10widelogokey": "",
     "wp81sdescriptionkey": "Sample Test Application",
-    "wp81sdisplaynamekey": "MKAFNew",
+    "wp81sdisplaynamekey": "FebDemo1",
     "wp81slockscreennotificationskey": "Not set",
-    "wp81spackagedisplaynamekey": "MKAFNew",
-    "wp81spackagenamekey": "MKAFNew",
+    "wp81spackagedisplaynamekey": "FebDemo1",
+    "wp81spackagenamekey": "FebDemo1",
     "wp81spackagepublichernamekey": "Kony",
     "wp81spublisherdisplaynamekey": "KonyLabs",
     "wp81stoastcapablekey": "Not set",
