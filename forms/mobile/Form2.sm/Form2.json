@@ -15,22 +15,25 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s3becad5e1e5450e9b50bc0d6f832fa2",
+    "_skin_": "s1f182a4156143e78be15f1f1a01cd45",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
     "android": {
         "needAppMenu": false,
         "psp": {
-            "windowSoftInputMode": 2
+            "windowSoftInputMode": 1
         }
     },
     "androidwearos": {
-        "needAppMenu": false
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 1
+        }
     },
     "canUpdateUI": true,
     "children": [
-        "Image0e359a83c699f44"
+        "Label0e6bf5719bf4146"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -43,7 +46,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "iPhone11",
+    "device": "iPhone13ProMax",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "Form2",
@@ -64,7 +67,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "f572f1b56a2c47b6b467607020f26f76",
+                "kuid": "e6cc3fc03c394c7682f57d68e3c6dee0",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -75,7 +78,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "e784be96b1da484fa73efb56097e83ee",
+                        "kuid": "c53cead103924b96ade73701acbe5b3b",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -92,13 +95,13 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "g0d4d66203c340dba7c4c66affdcce53",
+    "kuid": "e976b841d82c4d82a5cc10faa673bd1f",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
     "platform": "iphone",
-    "prevDevice": "iPhone11",
+    "prevDevice": "iPhone13ProMax",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
@@ -123,7 +126,7 @@
     "spawinphone8": {
         "needAppMenu": false
     },
-    "titleBarSkin": "sb0f6d7eda9b46bca6c25a480f1e3fa4",
+    "titleBarSkin": "s852a079b13c446b926f69c5e30e149e",
     "titlebar": true,
     "type": 3,
     "wType": "Form",
