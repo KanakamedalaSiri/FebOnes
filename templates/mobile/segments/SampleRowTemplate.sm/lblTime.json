@@ -22,7 +22,7 @@
         "type": "string",
         "value": "9%"
     },
-    "_skin_": "s25cedd619ad450386a2501d1d98fe7a",
+    "_skin_": "s72f5d68abba4a29b414595cf0a6ace2",
     "_text_": "Timestamp",
     "_top_": {
         "type": "string",
@@ -56,7 +56,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "bc72aca48be4455289f066e69c2a109d",
+    "kuid": "48a3223d40f143de826b5a89fa00ae47",
     "name": "kony.ui.Label",
     "parent": "flxSampleRowTemplate",
     "pf": "SampleRowTemplate",

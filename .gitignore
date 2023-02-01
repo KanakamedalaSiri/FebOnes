@@ -29,7 +29,7 @@ testresources/Jasmine/\*.js
 
 # Starting with Visualizer 7.3 the /sdkplugin.properties file has been moved to
 # `/resources/customlibs/sdkplugin.properties` and can be automatically re-created by Visualizer
-# during the build, provided that folder resources/customlibs exists. Consider adding a .gitkeep
+# during the build, provided that folder resources/customlibs exists. Consider adding a .gitkeep 
 # file in order to force it into source control.
 
 # resources/customlibs/sdkplugin.properties
@@ -104,5 +104,3 @@ testresources/Jasmine/\*.js
 /controllers/**/*ControllerActions.js
 /userwidgets/**/modules/require/*ControllerActions.js
 
-# IQ Cop reports
-reports/
