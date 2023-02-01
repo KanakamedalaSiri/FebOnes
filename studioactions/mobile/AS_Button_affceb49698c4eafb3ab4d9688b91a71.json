@@ -1,0 +1,29 @@
+{
+    "AS_Button_affceb49698c4eafb3ab4d9688b91a71": {
+        "id": "AS_Button_affceb49698c4eafb3ab4d9688b91a71",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bca784673e32405fb7e21aa04d54fd6e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__cea1983c65fe4bacacfe340132772fb3",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form2",
+            "formKUID": "e976b841d82c4d82a5cc10faa673bd1f",
+            "projectName": "FebOne",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}
