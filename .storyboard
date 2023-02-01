@@ -1,0 +1,51 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM__cea1983c65fe4bacacfe340132772fb3",
+                    "actionSequenceId": "AS_Button_affceb49698c4eafb3ab4d9688b91a71",
+                    "beautifiedPath": "Form1 > Button0dec74941947b4f > onClick",
+                    "evt": "ide_onClick",
+                    "from": "bca784673e32405fb7e21aa04d54fd6e",
+                    "isPSP": false,
+                    "points": [
+                        183.2,
+                        194.445263671875,
+                        193.2,
+                        194.445263671875,
+                        196,
+                        194.445263671875,
+                        196,
+                        394.44526367187495,
+                        218,
+                        394.44526367187495,
+                        228,
+                        394.44526367187495
+                    ],
+                    "to": "e976b841d82c4d82a5cc10faa673bd1f",
+                    "widgetKUID": "e7f17596bafb4485a73d4edbcd3994a4"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "bca784673e32405fb7e21aa04d54fd6e",
+                    "formName": "Form1",
+                    "isStartupForm": true,
+                    "key": "bca784673e32405fb7e21aa04d54fd6e",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": "/assets/FebOne/forms/mobile/Form1.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "e976b841d82c4d82a5cc10faa673bd1f",
+                    "formName": "Form2",
+                    "isStartupForm": false,
+                    "key": "e976b841d82c4d82a5cc10faa673bd1f",
+                    "loc": "228 224.845263671875",
+                    "thumbnailURL": null
+                }
+            ]
+        }
+    }
+}
